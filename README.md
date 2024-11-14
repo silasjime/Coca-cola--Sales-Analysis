@@ -12,7 +12,7 @@ Coca - cola Sales and Profit Analysis
 - [SOME INTERESTING CODES AND FEATURES I WORKED WITH](#some-interesting-codes-and-features-i-worked-with)
 - [RESULTS AND FINDINGS](#results-and-findings)
 - [RECOMMENDATIONS](#recommendations)
-- [LIMITATIONS](#limitations)
+  
 
 
 #### PROJECT OVERVIEW:
@@ -291,15 +291,6 @@ I had to remove all zero values from budget and revenue columns because they wou
 😄
 💻
 
-
-|Heading1|Heading2|
-|--------|--------|
-|content|content2|
-|python|SQL|
-
-`column_1`
-
-**bold**
 
 *italic*
 
